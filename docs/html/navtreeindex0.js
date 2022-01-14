@@ -1,0 +1,20 @@
+var NAVTREEINDEX0 =
+{
+"files.html":[1,0],
+"index.html":[],
+"namespace_polynomial_operations.html":[0,0,0],
+"namespace_polynomial_operations.html#ac2ab372aafb7e07fceb47d356f19a107":[0,0,0,0],
+"namespace_polynomial_operations.html#af609e0d02deb829283b35b07c539e74e":[0,0,0,1],
+"namespacemembers.html":[0,1,0],
+"namespacemembers_func.html":[0,1,1],
+"namespaces.html":[0,0],
+"pages.html":[],
+"translate__polynomials_8cpp.html":[1,0,0],
+"translate__polynomials_8cpp.html#ac2ab372aafb7e07fceb47d356f19a107":[1,0,0,0],
+"translate__polynomials_8cpp.html#af609e0d02deb829283b35b07c539e74e":[1,0,0,1],
+"translate__polynomials_8cpp_source.html":[1,0,0],
+"translate__polynomials_8h.html":[1,0,1],
+"translate__polynomials_8h.html#ac2ab372aafb7e07fceb47d356f19a107":[1,0,1,0],
+"translate__polynomials_8h.html#af609e0d02deb829283b35b07c539e74e":[1,0,1,1],
+"translate__polynomials_8h_source.html":[1,0,1]
+};
