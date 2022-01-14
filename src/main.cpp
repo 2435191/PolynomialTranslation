@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : Polynomial.cpp
+// Name        : main.cpp
 // Author      : Will Bradley
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   : MIT License
+// Description : Driver and testing code
 //============================================================================
 
 
