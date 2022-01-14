@@ -2,7 +2,7 @@
  * translate_polynomials.cpp
  *
  *  Created on: Jan 12, 2022
- *      Author: WillJBradley
+ *      Author: Will Bradley
  */
 #include <iostream>
 #include <complex>

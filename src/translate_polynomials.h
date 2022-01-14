@@ -2,7 +2,7 @@
  * translate_polynomials.h
  *
  *  Created on: Jan 12, 2022
- *      Author: WillJBradley
+ *      Author: Will Bradley
  */
 
 #ifndef TRANSLATE_POLYNOMIALS_H_
